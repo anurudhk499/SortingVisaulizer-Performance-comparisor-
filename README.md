@@ -18,9 +18,9 @@ pip install -r requirements.txt
 python SortingVisualizer(PerformanceComparisor).py
 
 ## Technologies Used  
-Python
-Matplotlib
-Rich Console
+Python  
+Matplotlib  
+Rich Console  
 
 ## Folder Structure  
 project-root/  
