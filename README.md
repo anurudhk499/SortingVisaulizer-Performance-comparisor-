@@ -8,7 +8,7 @@ Displays execution time for each sorting method.
 Graphical representation of performance comparison.
 
 ## Installation  
-###Clone the repository
+### Clone the repository
 git clone https://github.com/your-username/SortingVisualizer.git
 ### Navigate to the project directory
 cd SortingVisualizer
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ### Run the application
 python SortingVisualizer(PerformanceComparisor).py
 
-##Technologies Used  
+## Technologies Used  
 Python
 Matplotlib
 Rich Console
@@ -25,15 +25,15 @@ Rich Console
 ##Folder Structure  
 project-root/  
 │  
-├── SortingVisualizer(PerformanceComparisor).py   # Main application file  
-├── requirements.txt                              # Dependencies list  
-├── README.md                                     # Project documentation  
-└── assets/                                       # Any additional assets  
+├── SortingVisualizer(PerformanceComparisor).py    
+├── requirements.txt                             
+├── README.md                                    
+└── assets/                                       
 
 ## Contributing  
 Contributions, issues, and feature requests are welcome.
 Feel free to check the issues page.
 
-##Contact  
+## Contact  
 Anurudh K-anurudhk499@gmail.com
 LinkedIn: https://www.linkedin.com/in/anurudh-k-a106a92a0
