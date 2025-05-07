@@ -1,7 +1,7 @@
 # SortingVisaulizer Performance comparisor
 A Python-based interactive sorting visualizer that demonstrates and compares the performance of various sorting algorithms like Bubble Sort, Selection Sort, Insertion Sort, and Quick Sort with graphical representations using Matplotlib. The application also measures and compares the execution time for each algorithm.
 
-##Features
+##Features  
 Visualization of sorting steps for each algorithm.
 Supports Bubble Sort, Selection Sort, Insertion Sort, and Quick Sort.
 Displays execution time for each sorting method.
