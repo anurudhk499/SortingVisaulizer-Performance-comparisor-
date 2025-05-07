@@ -9,20 +9,13 @@ Graphical representation of performance comparison.
 
 ### Installation  
 Clone the repository 
-
- •git clone https://github.com/your-username/SortingVisualizer.git  
- 
+ • git clone https://github.com/your-username/SortingVisualizer.git  
 Navigate to the project directory
-
- •cd SortingVisualizer  
- 
+ • cd SortingVisualizer  
 Install the required packages 
-
- •pip install -r requirements.txt 
- 
+ • pip install -r requirements.txt 
 Run the application 
-
- •python SortingVisualizer(PerformanceComparisor).py
+ • python SortingVisualizer(PerformanceComparisor).py
 
 ### Technologies Used  
 Python  
