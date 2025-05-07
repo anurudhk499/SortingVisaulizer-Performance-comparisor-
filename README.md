@@ -8,13 +8,20 @@ Displays execution time for each sorting method.
 Graphical representation of performance comparison.
 
 ### Installation  
-Clone the repository  
+Clone the repository 
+
  •git clone https://github.com/your-username/SortingVisualizer.git  
-Navigate to the project directory  
+ 
+Navigate to the project directory
+
  •cd SortingVisualizer  
-Install the required packages  
- •pip install -r requirements.txt
-Run the application  
+ 
+Install the required packages 
+
+ •pip install -r requirements.txt 
+ 
+Run the application 
+
  •python SortingVisualizer(PerformanceComparisor).py
 
 ### Technologies Used  
