@@ -22,18 +22,16 @@ Python
 Matplotlib  
 Rich Console  
 
-### Folder Structure  
-project-root/  
-│  
-├── SortingVisualizer(PerformanceComparisor).py    
-├── requirements.txt                             
-├── README.md                                    
-└── assets/                                       
+###Future Enhancements  
+•Add more sorting algorithms like Merge Sort and Heap Sort.  
+•Enhance the visualization with more interactive UI.  
+•Introduce real-time analysis and comparisons.  
+•Implement a web-based interface for broader accessibility.  
 
 ### Contributing  
 Contributions, issues, and feature requests are welcome.  
 Feel free to check the issues page.
 
 ### Contact  
-Anurudh K-anurudhk499@gmail.com  
+Anurudh K: anurudhk499@gmail.com  
 LinkedIn: https://www.linkedin.com/in/anurudh-k-a106a92a0
